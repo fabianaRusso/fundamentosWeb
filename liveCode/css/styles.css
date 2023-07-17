@@ -1,24 +1,54 @@
 
-
-p{
-    font-size: 20px;
-    color: #1c2440;
+body {
+    text-align: center;
+    font-family: open sans, sans-serif;
+    background-color: #8a71c9;
+    color: #ffffff;
+    margin: 0px 0px 30px 0px;
 }
 
-#p-first{
-    font-weight: bold;
-    
+h2 {
+    color: #2a0074;
+    font-size: 40px;
 }
 
-.p-color{
-    color: #123d52;
+.titulo-verde {
+    color: #04ff9f;
 }
 
-img{
-    width: 100%; 
+.titulo-rosa {
+    color: #ff9efe;
 }
 
-p{
+.titulo-amarelo {
+    color: #ffe36d;
+}
+
+section {
+    width: 60%;
+    margin: 0 auto;
+}
+
+section section {
+    width: 100%;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 22px;
+    font-style: italic;
+}
+
+p {
     line-height: 1.5;
     font-size: 20px;
 }
+
+img {
+    width: 100%;
+}
+
